@@ -3,3 +3,5 @@ UN Report Project
 Plotted life expectancy and GDP from Gapminder data.
 We learned how to use the unix shell.
 We created a new git repo.
+
+Authors: Christina, Tarrik
